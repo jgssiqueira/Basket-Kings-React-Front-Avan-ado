@@ -1,0 +1,25 @@
+{
+  "short_name": "App React",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "basketkings.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/basketkings"
+    },
+    {
+      "src": "basketkings1.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "basketkings2.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

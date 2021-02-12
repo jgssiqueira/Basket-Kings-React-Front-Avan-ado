@@ -1,0 +1,30 @@
+body{
+    padding-top: 100px;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+.carregando{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.menu-jerseys{
+    background-color: white !important;
+}
+.menu-topo, .logo{
+    color: orangered;
+}
+.menu-topo:hover, .logo:hover{
+    color: rgb(201, 69, 8);
+    cursor: pointer !important;
+    
+}
+.titulo-formulario{
+    text-align: center;
+    padding-top: 15px;
+}
+.formulario{
+    padding-bottom: 100px;
+}
